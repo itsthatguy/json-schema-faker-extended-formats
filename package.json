@@ -1,0 +1,26 @@
+{
+  "name": "json-schema-faker-extended-formats",
+  "version": "0.0.0",
+  "description": "Extends json-schema-faker with some more formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "$(npm bin)/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsthatguy/json-schema-faker-extended-formats.git"
+  },
+  "keywords": [
+    "json-schema",
+    "json",
+    "schema",
+    "faker",
+    "formats"
+  ],
+  "author": "Kevin Altman <kevin@itsthatguy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsthatguy/json-schema-faker-extended-formats/issues"
+  },
+  "homepage": "https://github.com/itsthatguy/json-schema-faker-extended-formats#readme"
+}
